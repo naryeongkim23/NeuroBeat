@@ -26,7 +26,7 @@ The classifier uses logistic regression with a 75% training and 25% testing spli
 
 ### Data Collection
 
-To evaluate the classifier’s performance, we conducted experiments with 15 collegiate athletes (ages 20 ± 2) using the Frontier X2 ECG system. Athletes underwent baseline testing both at rest and during physical activity. After baseline testing, we conducted both TBI (traumatic brain injury) and non-TBI perturbation tests to simulate real-world conditions. The collected data (N=30 samples) was then used to test the algorithm’s ability to differentiate between concussed and healthy states.
+To evaluate the classifier’s performance, we conducted experiments with 46 collegiate athletes (ages 20 ± 2) using the Frontier X2 ECG system. Athletes underwent baseline testing both at rest and during physical activity. After baseline testing, we conducted both TBI (traumatic brain injury) and non-TBI perturbation tests to simulate real-world conditions. The collected data (N=30 samples) was then used to test the algorithm’s ability to differentiate between concussed and healthy states.
 
 ## Results
 
